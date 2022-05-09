@@ -19,11 +19,11 @@ Q: Unknown Beats
 
 Following the file labeled as 'basic_EDA.ipynb' in this projects' repository, the distribution of the classes is found to be as follows: 
 
-'''python
+```python
 0.0    72471
 4.0     6431
 2.0     5788
 1.0     2223
 3.0      641
 Name: 187, dtype: int64
-'''
+```
