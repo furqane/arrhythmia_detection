@@ -61,7 +61,7 @@ Following [itr2_LSTM.ipynb](itr2_LSTM.ipynb), the resulting confusion matrix is 
 
 ![Unknown-3](https://user-images.githubusercontent.com/90627794/167515363-722ecdbf-1915-44f8-8614-659e6128ba85.png)
 
-This model has already shown a substantial increase in performance when compared to the baseline. For example, there is a 23% in the F/3 class. As hypothesized, LSTMS are powerful for time series problems.
+This model has already shown a substantial increase in performance when compared to the baseline. For example, there is a 23% in the F/3 class. As hypothesized, LSTMs are powerful for time series problems.
 
 ### With Upsampling
 
