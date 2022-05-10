@@ -4,7 +4,7 @@ This project served as my capstone project for my Data Science bootcamp offered 
 
 This project is a combination of two of my interests: biomedical engineering and deep learning. Data science plays a crucial role in cutting edge research in the field of healhcare and biomedical engineering, from understanding disease mechanisms to improving medical imaging.
 
-For this project, I have decided to explore a classification problem in regards to heart arrhythmias. By being able to develop a high accuracy machine/deep learning model that can analyze electrocardiogram (ECG/EKG) data and classify not only whether the ECG reflects an arrythmia but also which type, we can improve medical devices and wearable technologies.
+I have decided to explore a classification problem in regards to heart arrhythmias. By being able to develop a high accuracy machine/deep learning model that can analyze electrocardiogram (ECG/EKG) data and classify not only whether the ECG reflects an arrythmia but also which type, we can improve medical devices and wearable technologies.
 
 The dataset used originated from Kaggle. This [link](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) will redirect you to the dataset page. The samples in the dataset have been cropped, downsampled, and padded with zeros to the fixed dimension of 188. 
 
